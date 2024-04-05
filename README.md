@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-khandagale&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-khandagale" /> </p>
 
-- 🌱 I’m currently learning **Python (Programming Language)**
+- 🌱 I’m currently an **Undergraduate Student.**
 
-- 🤝 I’m looking to help with **Python or Java related Projects**
+- 🤝 I’m looking to help with **Python or Java related Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ROSHAN-KHANDAGALE](https://github.com/ROSHAN-KHANDAGALE)
 
