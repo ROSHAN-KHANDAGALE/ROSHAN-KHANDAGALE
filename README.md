@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roshan-khandagale" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-khandagale" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/549566042909966346" target="_blank"><img align="center" src="https://github.com/ROSHAN-KHANDAGALE/ROSHAN-KHANDAGALE/assets/92646499/e4f54bee-76b7-4816-b12c-48a7f057b924" alt="Discord" height="40" width="40" /> </a>
+<a href="https://linkedin.com/in/roshan-khandagale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-khandagale" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/549566042909966346" target="blank"><img align="center" src="https://github.com/ROSHAN-KHANDAGALE/ROSHAN-KHANDAGALE/assets/92646499/e4f54bee-76b7-4816-b12c-48a7f057b924" alt="Discord" height="40" width="40" /> </a>
 
 <h3 align="left">Code Editors Used:</h3>
 <p align="left">
-<a href="https://code.visualstudio.com/docs/" traget="_blank"> <img align="center" src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vs-code-editor" height="30" width="40" /> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img align="center" src="https://devicon-website.vercel.app/api/intellij/original.svg" alt="inteliJ-IDEA" height="35" width="40" /> </a>
+<a href="https://code.visualstudio.com/docs/" traget="blank"> <img align="center" src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vs-code-editor" height="30" width="40" /> </a>
+<a href="https://www.jetbrains.com/idea/" target="blank"> <img align="center" src="https://devicon-website.vercel.app/api/intellij/original.svg" alt="inteliJ-IDEA" height="35" width="40" /> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> 
