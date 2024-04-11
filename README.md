@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://code.visualstudio.com/docs/" traget="_blank"> <img align="center" src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vs-code-editor" height="30" width="40" /> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img align="center" src="https://devicon-website.vercel.app/api/intellij/original.svg" alt="inteliJ-IDEA" height="35" width="40" /> </a>
+<a href="https://eclipseide.org/" target="_blank"> <img align="center" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" alt="eclipse-idea-editor" height="30" width="35"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> 
