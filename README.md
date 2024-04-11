@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshan-khandagale" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-khandagale" height="30" width="40" /></a>
+<a href="mailto:roshan.khandagale07@gmail.com" target="_blank"> <img align="center" src="https://github.com/ROSHAN-KHANDAGALE/ROSHAN-KHANDAGALE/assets/92646499/c85c498f-acf8-4aeb-8a15-7ac64d29b14c" alt="roshan-mail" height="35" width="40" /> </a>
 <a href="https://discordapp.com/users/549566042909966346" target="_blank"><img align="center" src="https://github.com/ROSHAN-KHANDAGALE/ROSHAN-KHANDAGALE/assets/92646499/e4f54bee-76b7-4816-b12c-48a7f057b924" alt="Discord" height="40" width="40" /> </a>
 
 <h3 align="left">Code Editors Used:</h3>
