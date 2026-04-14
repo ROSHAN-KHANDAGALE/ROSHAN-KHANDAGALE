@@ -78,7 +78,6 @@
 ---
 
 <h3 align="left">Stats and Contributions:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-khandagale&show_icons=true&locale=en&layout=compact" alt="roshan-khandagale" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-khandagale&" alt="roshan-khandagale" /></p>
 
 ---
