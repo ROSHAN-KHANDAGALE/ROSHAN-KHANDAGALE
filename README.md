@@ -4,7 +4,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Roshan Khandagale</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Building Intelligent Systems with LLMs & Backend Technologies</h3>
+<h3 align="center">AI/ML Engineer | Backend Developer | Generative AI Engineer | Building Intelligent Systems with LLMs & Backend Technologies</h3>
 
 ---
 
