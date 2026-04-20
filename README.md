@@ -1,4 +1,5 @@
-![Roshan-Banner](https://github.com/ROSHAN-KHANDAGALE/ROSHAN-KHANDAGALE/assets/92646499/409a4660-f92e-4df0-9079-c3c36b108e30)
+<img width="1400" height="347" alt="banner" src="https://github.com/user-attachments/assets/3fd2847a-5519-4ddb-aa30-47a44a59f7e0" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-khandagale&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-khandagale" /> </p>
 
