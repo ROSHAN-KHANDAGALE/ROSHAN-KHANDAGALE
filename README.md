@@ -1,6 +1,5 @@
 <img width="1400" height="347" alt="banner" src="https://github.com/user-attachments/assets/3fd2847a-5519-4ddb-aa30-47a44a59f7e0" />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-khandagale&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-khandagale" /> </p>
 
 
