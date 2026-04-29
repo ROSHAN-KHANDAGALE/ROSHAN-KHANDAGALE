@@ -68,7 +68,9 @@ Currently obsessed with:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/LLMs-6E4CBB?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3CBB?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ### 🤖 Generative AI & LLMs
